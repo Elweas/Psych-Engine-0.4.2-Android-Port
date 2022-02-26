@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Fleetway.png">
+<SubTexture name="Fleetway Laser Blast0000" x="0" y="0" width="540" height="718" frameX="0" frameY="0" frameWidth="540" frameHeight="718" />
+<SubTexture name="Fleetway Laser Blast0001" x="540" y="0" width="524" height="667" frameX="0" frameY="0" frameWidth="524" frameHeight="667" />
+<SubTexture name="Fleetway Laser Blast0002" x="0" y="718" width="720" height="804" frameX="0" frameY="0" frameWidth="720" frameHeight="804" />
+<SubTexture name="Fleetway Laser Blast0003" x="720" y="718" width="3168" height="1716" frameX="0" frameY="0" frameWidth="3168" frameHeight="1716" />
+<SubTexture name="Fleetway Laser Blast0004" x="0" y="2434" width="627" height="757" frameX="0" frameY="0" frameWidth="627" frameHeight="757" />
+</TextureAtlas>
